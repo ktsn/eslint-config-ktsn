@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-ktsn",
+  "version": "1.0.0",
+  "description": "A ESLint config",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "katashin",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.10.2"
+  }
+}

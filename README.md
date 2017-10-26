@@ -1,6 +1,6 @@
 # eslint-config-ktsn
 
-A ESLint config
+An ESLint config
 
 ## Usage
 

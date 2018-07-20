@@ -10,6 +10,6 @@
   "author": "katashin",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.0.0"
+    "eslint": "^5.1.0"
   }
 }

@@ -10,7 +10,7 @@
   "author": "katashin",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^5.1.0"
+    "eslint": "^6.3.0"
   },
   "dependencies": {
     "eslint-plugin-prettier": "^3.1.0"
